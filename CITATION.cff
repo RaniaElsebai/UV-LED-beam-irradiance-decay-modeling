@@ -6,4 +6,5 @@ authors:
     given-names: "Rania"
 version: "4.5.2"
 date-released: "2026-06-10"
+doi: "https://doi.org/10.5281/zenodo.20635026"
 url: "https://github.com/RaniaElsebai/UV-LED-beam-irradiance-decay-modeling/new/main"
