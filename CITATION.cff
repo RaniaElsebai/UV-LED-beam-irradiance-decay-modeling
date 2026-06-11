@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "R code for UV LED beam irradiance decay modelling"
+authors:
+  - family-names: "Elsebai"
+    given-names: "Rania"
+version: "4.5.2"
+date-released: "2026-06-10"
+url: "https://github.com/RaniaElsebai/UV-LED-beam-irradiance-decay-modeling/new/main"
